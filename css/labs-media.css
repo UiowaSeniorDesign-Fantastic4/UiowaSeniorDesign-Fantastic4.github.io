@@ -14,7 +14,8 @@
         height: 300px;
     }
     .header li {
-        font-size: 22px;    
+        font-size: 22px;
+        margin-bottom: 10px;
     }
     
     .progress{
